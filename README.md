@@ -7,7 +7,7 @@
   <body>
     <table cellspacing="15">
       <tr>
-        <td><img src="https://github.com/MandviShukla/Personal-site.github.io/blob/master/personal%20site.html" alt="mandvi's profile picture"></td>
+        <td><img src="https://github.com/MandviShukla/Personal-site.github.io/blob/master/doraemon.gif" alt="mandvi's profile picture"></td>
         <td><h1><b>MANDVI SHUKLA</b></h1></td>
       </tr>
     </table>
