@@ -72,7 +72,7 @@
     <br>
     <hr size="5">
     <br>
-    <a href="C:\Users\Shivanand shukla\Desktop\Web Devlopment\HTML-personal site\contact me.html">Want to have a conversation with me?</a>
+    <a href="https://github.com/MandviShukla/MandviShukla/blob/master/personal%20site.html">Want to have a conversation with me?</a>
     <hr size="5">
   </body>
 </html>
